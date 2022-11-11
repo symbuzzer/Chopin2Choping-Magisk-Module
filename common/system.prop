@@ -1,0 +1,62 @@
+# Chopin2Choping Options
+ro.product.brand=POCO
+ro.product.manufacturer=Xiaomi
+ro.product.marketname=POCO X3 GT
+ro.product.model=21061110AG
+ro.product.device=chopin
+ro.product.board=MT6893
+ro.product.name=chopin_global
+ro.product.product.name=chopin_global
+ro.product.product.device=chopin
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.brand=POCO
+ro.product.product.model=21061110AG
+ro.product.product.marketname=POCO X3 GT
+ro.product.odm.brand=POCO
+ro.product.odm.device=chopin
+ro.product.odm.manufacturer=Xiaomi
+ro.product.odm.model=21067770AG
+ro.product.odm.manufacturer=Xiaomi
+ro.product.odm.marketname=POCO X3 GT
+ro.product.odm.name=chopin_global
+ro.product.vendor.model=21061110AG
+ro.product.bootimage.brand=Xiaomi
+ro.product.bootimage.device=chopin
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=21061110AG
+ro.product.bootimage.marketname=POCO X3 GT
+ro.product.vendor.manufacturer=Xiaomi
+ro.product.vendor.brand=POCO
+ro.product.vendor.device=chopin
+ro.product.vendor.manufacturer=Xiaomi
+ro.product.vendor.model=21061110AG
+ro.product.vendor.marketname=POCO X3 GT
+ro.product.vendor.name=chopin_global
+ro.vendor.product.oem=chopin
+ro.vendor.product.device.oem=chopin
+ro.build.product=chopin
+ro.miui.build.region=global
+
+# Debug Options
+persist.dbg.ims_volte_enable=1
+persist.dbg.volte_avail_ovr=1
+persist.dbg.vt_avail_ovr=1
+persist.dbg.wfc_avail_ovr=1
+
+# Data Options
+# Commented this line out as it was reported to break WiFi calling on some carriers. Not even sure if it's required to begin with.
+persist.data.iwlan.enable=true
+persist.data.iwlan=1
+persist.data.iwlan.ipsec.ap=1
+
+# Radio Options
+persist.radio.volte.dan_support=true
+persist.radio.rat_on=combine
+persist.radio.data_ltd_sys_ind=1
+persist.radio.data_con_rprt=1
+persist.radio.calls.on.ims=1
+persist.radio.VT_ENABLE=1
+
+# Other Options
+persist.sys.cust.lte_config=true
+persist.rcs.supported=1
