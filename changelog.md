@@ -1,3 +1,6 @@
+v1.0.2  
+-Removed unnecessary things  
+  
 v1.0.1  
 -Fixed Wifi issues  
   
