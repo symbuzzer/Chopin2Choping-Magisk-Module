@@ -1,3 +1,6 @@
+v2.0.0    
+-Rewritten from stratch  
+  
 v1.0.2  
 -Removed unnecessary things  
   
