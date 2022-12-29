@@ -1,4 +1,7 @@
-v2.0.0    
+v2.0.1  
+-Fixing not working issue  
+  
+v2.0.0  
 -Rewritten from stratch  
   
 v1.0.2  
