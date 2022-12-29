@@ -1,3 +1,6 @@
+v2.0.2  
+-Fixing not working issue 2  
+  
 v2.0.1  
 -Fixing not working issue  
   
