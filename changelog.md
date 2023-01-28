@@ -1,3 +1,6 @@
+v2.0.4  
+-Clean up  
+  
 v2.0.3  
 -Fixing not working issue 3  
   
