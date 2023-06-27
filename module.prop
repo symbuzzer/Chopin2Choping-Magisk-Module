@@ -3,5 +3,5 @@ name=Chopin2Choping
 version=v2.0.6
 versionCode=206
 author=Ali Beyaz (avalibeyaz.com/github)
-description=Patch for using Redmi Note 10 Pro 5g roms on Poco X3 GT
+description=Patch for using Redmi Note 10 Pro 5G roms on Poco X3 GT
 updateJson=https://raw.githubusercontent.com/symbuzzer/Chopin2Choping-Magisk-Module/main/update.json
